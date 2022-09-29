@@ -1,4 +1,4 @@
-package homeworkPackageWeek_1;
+package homeworkPackageWeek1_2;
 
 public class Homework1_2 {
 

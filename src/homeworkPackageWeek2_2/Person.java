@@ -1,4 +1,4 @@
-package homeworkPackageWeek_2;
+package homeworkPackageWeek2_2;
 
 public class Person {
 
