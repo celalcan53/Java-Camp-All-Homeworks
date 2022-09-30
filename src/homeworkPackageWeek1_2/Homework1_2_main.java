@@ -1,6 +1,6 @@
 package homeworkPackageWeek1_2;
 
-public class Homework1_2 {
+public class Homework1_2_main {
 
 	public static void main(String[] args) {
 

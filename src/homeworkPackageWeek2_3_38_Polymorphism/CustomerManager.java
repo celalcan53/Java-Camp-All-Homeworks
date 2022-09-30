@@ -1,4 +1,4 @@
-package homeworkPackageWeek2_3;
+package homeworkPackageWeek2_3_38_Polymorphism;
 
 public class CustomerManager {
 	private BaseLogger logger;

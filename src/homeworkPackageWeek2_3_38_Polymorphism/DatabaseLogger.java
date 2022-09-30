@@ -1,4 +1,4 @@
-package homeworkPackageWeek2_3;
+package homeworkPackageWeek2_3_38_Polymorphism;
 
 public class DatabaseLogger extends BaseLogger{
 	public void log(String message) {
