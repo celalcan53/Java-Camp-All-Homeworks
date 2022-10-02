@@ -1,0 +1,9 @@
+package homeworkPackageWeek2_3_40_AbstractClasses;
+
+public class ManGameCalculator extends GameCalculator {
+	
+	public void hesapla() {
+		System.out.println("Puanınız : 45!");
+	}
+
+}
