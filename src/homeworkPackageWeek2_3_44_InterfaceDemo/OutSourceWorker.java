@@ -1,0 +1,10 @@
+package homeworkPackageWeek2_3_44_InterfaceDemo;
+
+//Diğer firmadan gelen çalışanlar.
+public class OutSourceWorker implements IWorkable{
+@Override
+public void work() {
+	// TODO Auto-generated method stub
+	
+}
+}
