@@ -5,3 +5,5 @@ A repository where all the homework given at Java Software Developer Training Ca
 !!!! İsimlendirmede kullandığım sayılar, kampın haftasını ve ödevin sayısını temsil etmektedir. 
 (Örneğin packageweek2_3, ikinci haftada verilen 3.ödevi temsil eder.)
 
+Kurs ve ödevler hakkında detaylı bilgiye kodlama.io sitesinden ulaşabilirsiniz.
+
